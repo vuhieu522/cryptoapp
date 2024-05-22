@@ -1,5 +1,4 @@
 // ignore_for_file: deprecated_member_use
-
 import 'package:adevindustries/constance/themes.dart';
 import 'package:adevindustries/model/listingsModel.dart';
 import 'package:flutter/material.dart';
